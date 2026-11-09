@@ -1,0 +1,9 @@
+load,tasks,seconds_no_aging,seconds_with_aging,slowdown,aging_ticks,increase_key_calls,increase_key_calls_per_tick,max_queue_length_with_aging
+heavy,2000,0.0142,0.0163,1.15,480,2032,4.2,14
+heavy,4000,0.0290,0.0343,1.18,995,5337,5.4,24
+heavy,8000,0.0591,0.0696,1.18,1989,11389,5.7,24
+heavy,16000,0.1139,0.1349,1.18,3904,19343,5.0,24
+overloaded,2000,0.0239,0.0679,2.84,559,70809,126.7,217
+overloaded,4000,0.0521,0.2129,4.09,1118,252836,226.2,429
+overloaded,8000,0.1155,0.7383,6.39,2225,953005,428.3,845
+overloaded,16000,0.2525,2.6362,10.44,4434,3562074,803.4,1567

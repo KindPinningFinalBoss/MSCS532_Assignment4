@@ -1,0 +1,16 @@
+distribution,algorithm,n,comparisons,comparisons_over_n_log2_n
+random,heapsort,10000,235312,1.7709
+random,quicksort,10000,248731,1.8719
+random,merge_sort,10000,120433,0.9063
+sorted,heapsort,10000,244460,1.8397
+sorted,quicksort,10000,248101,1.8671
+sorted,merge_sort,10000,64608,0.4862
+reverse,heapsort,10000,226682,1.7060
+reverse,quicksort,10000,241285,1.8159
+reverse,merge_sort,10000,69008,0.5193
+repeated,heapsort,10000,217882,1.6397
+repeated,quicksort,10000,62028,0.4668
+repeated,merge_sort,10000,116206,0.8745
+all_equal,heapsort,10000,29994,0.2257
+all_equal,quicksort,10000,20000,0.1505
+all_equal,merge_sort,10000,64608,0.4862

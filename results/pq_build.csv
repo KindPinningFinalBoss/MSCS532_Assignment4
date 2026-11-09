@@ -1,0 +1,3 @@
+n,n_inserts_ms,bulk_build_ms,insert_moves_per_task,bulk_moves_per_task
+10000,12.058,8.232,1.259,0.736
+100000,128.015,107.735,1.287,0.745
